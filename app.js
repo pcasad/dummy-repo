@@ -2,7 +2,7 @@ const greeting = document.getElementById("greeting");
 const cta = document.getElementById("cta");
 
 function sayHello(name) {
-  return `Hello world`;
+  return `Hello wwworld`;
 }
 
 cta.addEventListener("click", () => {
