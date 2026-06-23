@@ -5,5 +5,5 @@ function sayHello(name) {
   return `Good morning Child ${name}!`;
 }
 cta.addEventListener("click", () => {
-  greeting.textContent = sayHello("world");
+  greeting.textContent = sayHello("world CLM");
 });
