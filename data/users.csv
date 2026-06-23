@@ -3,3 +3,5 @@ id,name,email,role
 2,Bob,bob@example.com,user
 3,Carol,carol@example.com,user
 4,Dave,dave@example.com,viewer
+5,Marius, mariusblanchet@gmail.com, user
+6,Marco, mariusblanchet@gmail.com, viewer
